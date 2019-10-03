@@ -3,7 +3,7 @@
 * [Initial page](README.md)
 * [Introduction](introduction.md)
 * [Background](background/benefits.md)
-  * [The Process in a Picture](background/the-process-in-a-picture.md)
+  * [The Process in a Picture](background/process-in-a-picture.md)
   * [When to use the Advice Process](background/when-to-use-the-advice-process.md)
 * [How the AP works](how-the-ap-works.md)
 * [Run your own AP](run-your-own-ap.md)
