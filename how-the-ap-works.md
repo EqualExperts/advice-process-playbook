@@ -48,8 +48,6 @@ The Exec / BUL of a team confirms the decision maker; it’s then that person’
 * _Above the value threshold and below £20,000, if an AP impacts a single BU, then the relevant Business Unit Lead \(BUL\) appoints the decision maker._
 * _For any decision that spans across Business Units, or not covered by the two points above, the Exec Team appoints the decision maker._
 
-### 
-
 ### High value/large impact decisions
 
 As outlined above, the decision maker for higher value or larger impact decisions, needs to be confirmed either by the BUL or by the Exec Team. Execs will consider APs that affect more than one BU, while BULs will consider APs that impacting only their BU.
@@ -81,8 +79,6 @@ Under the listed threshold, any employee can appoint themselves the decision mak
 ### WIP Limits
 
 One person can only be the decision maker for 2 on-going AP at any given time. If you want to open another AP and already have 2 APs in flight, you will have to abandon or complete existing ones, before opening another.
-
-### 
 
 ### Transparency of Appointments
 
@@ -151,8 +147,6 @@ _“Poker is a game of incomplete information. It is a game of decision-making u
 
 _Paraphrased from Duke, Annie. Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts \(pp. 30-31\). Penguin Publishing Group. Kindle Edition._
 
-#### 
-
 #### Advice from a group: making it better than the sum of its individuals
 
 The advice from a group can be better than the sum of its individuals, but only if you seek advice from the _right_ team.
@@ -174,8 +168,6 @@ Combine these two ideas and you get a blueprint for the type of people in a grou
 3. Openness to a diversity of ideas.
 
 An agreement along these lines creates a common bond and shared fate among members, allowing the group to produce sound reasoning.
-
-## 
 
 ## Making the Decision
 
@@ -259,5 +251,4 @@ The intent is that the people doing the governance are different from initiative
 **What if the initiative fails?** Failures aren’t fun, but they also don’t matter. What does matter is that we continue to experiment, because “companies that don’t embrace failure eventually get into a desperate position, where the only thing they can do is make a ‘Hail Mary’ bet at the very end of their corporate existence. We don’t believe in bet-the-company bets”. - _Jeff Bezos, Amazon Founder/CEO_
 
 **Can I change my critical friend?** Yes, but the new arrangement needs to be agreed by the BUL or Exec, and the other critical friends.
-
 

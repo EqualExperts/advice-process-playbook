@@ -1,4 +1,4 @@
-# Get in touch
+# Get in Touch
 
 We really hope you found this playbook useful. If you want to chat about its contents – whether you’ve implemented the Advice Process in your organisation, or are interested in doing so – we’d love to hear from you.
 

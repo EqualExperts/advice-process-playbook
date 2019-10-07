@@ -41,7 +41,7 @@ _“Advice received must be taken into consideration. The point is not to create
 
 _"It is a misunderstanding that self-management decisions are made by getting everyone to agree, or even involving everyone in the decision. The advice seeker must take all relevant advice into consideration, but can still make the decision. "_
 
- _–_ [_Reinventing Organizations Wiki_](http://www.reinventingorganizationswiki.com/Decision_Making)
+_–_ [_Reinventing Organizations Wiki_](http://www.reinventingorganizationswiki.com/Decision_Making)
 
 ## Why we use the Advice Process
 

@@ -4,8 +4,6 @@ While we do our best to keep our processes as light as possible, we do need some
 
 ### Documents and templates
 
-### 
-
 #### Google Documents
 
 **Advice Process Template:** The basic outline the provides the types of data we look to capture when creating an AP \(we ran through this in section 4 - Run your own AP\).
@@ -42,8 +40,6 @@ These are the required processes for a standard AP:
 ## Advice Process Learning Group
 
 Using the Advice Process requires changes in behaviour and culture, and thus needs a little help to keep things moving along! We’ve found it useful to have a small group \(2-4 people\) focused on advocating and advancing usage of the AP. We call this the AP Learning Group. Each Business Unit that runs the AP is encouraged to have its own Learning Group, as well as a global group with representatives from across the regions.
-
-### 
 
 #### Who’s in the group?
 

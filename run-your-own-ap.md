@@ -30,7 +30,7 @@ Then, ask yourself the following:
 
 **Who do I need feedback from:** This will be a cross section of EE permanent staff and associates. Remember, we are looking for those impacted by the decision and experts in the area. Please share this document with those people, then follow up with one-to-one/one-to-few conversations with those people to explore your proposal further. Record feedback in your AP template document.
 
-**Do I need an AP Governance Group?** For larger or longer running investments a [Governance Group]() is required.
+**Do I need an AP Governance Group?** For larger or longer running investments a [Governance Group](run-your-own-ap.md) is required.
 
 **Next Steps:** Outline what needs to be done in the future to progress your proposal.
 
@@ -53,11 +53,7 @@ At this stage, we won’t track opportunity cost nor employee time. There’s mo
 
 Having good metrics is important, but they can be hard to define. This [article on good metrics](https://towardsdatascience.com/what-is-a-good-metric-bec313bbc8c7) provides useful guidance and the AP Learning Group will be happy to work through the question with you \(make contact with @ap-learning-group in [\#ap-decisions](https://equalexperts.slack.com/messages/CCFLF2KM5)\). In the future, we’ll also be providing exemplar APs to learn from.
 
-### 
-
 **Result:** Documenting this is critical, as it’s the only way to provide transparency to the process and the only way we can collectively learn as an organisation. The decision maker is responsible for updating the result of the proposal until closed.
-
-### 
 
 **Learnings:** Are there things we’d do again, or avoid in the future? Are there learnings to be shared across the organisation?
 
