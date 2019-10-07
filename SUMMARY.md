@@ -1,7 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Introduction](introduction.md)
+* [The Advice Process](README.md)
+* [Introduction](introduction/README.md)
+  * [What is the Advice Process?](introduction/what-is-the-advice-process.md)
+  * [A word of advice](introduction/a-word-of-advice.md)
+  * [Why we use the Advice Process](introduction/why-we-use-the-advice-process.md)
+  * [Who is this playbook for?](introduction/who-is-this-playbook-for.md)
+  * [Using this Playbook](introduction/using-this-playbook.md)
 * [Background](background/README.md)
   * [Overview](background/overview.md)
   * [The principles to get behind](background/the-principles-to-get-behind.md)
