@@ -28,5 +28,4 @@
 * [Get in Touch](get-in-touch/README.md)
   * [How to contribute](get-in-touch/how-to-contribute.md)
   * [Licence](get-in-touch/licence.md)
-* [Untitled](untitled.md)
 
