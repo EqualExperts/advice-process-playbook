@@ -24,6 +24,9 @@
   * [Documents, Tools & Meetings](ap-housekeeping/documents-tools-and-meetings.md)
   * [Advice Process Learning Group](ap-housekeeping/advice-process-learning-group.md)
 * [Even more AP](even-more-ap.md)
-* [Get in Touch](get-in-touch.md)
+* [Contribute](contribute.md)
+* [Get in Touch](get-in-touch/README.md)
+  * [How to contribute](get-in-touch/how-to-contribute.md)
+  * [Licence](get-in-touch/licence.md)
 * [Untitled](untitled.md)
 

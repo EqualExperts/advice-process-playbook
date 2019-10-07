@@ -10,7 +10,7 @@ This Advice Process Playbook was created by [Dave Hewett](https://www.linkedin.c
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) which means you can modify it and use it, even for commercial purposes, as long as you give credit and distribute under the same license.
 
-![Creative Commons Licence](.gitbook/assets/25.png)
+![Creative Commons Licence](../.gitbook/assets/25.png)
 
 We’d like to say a massive “Thank You!” to our colleagues and clients, the brilliant hive mind whose wisdom and experience has made this into what it is.
 
