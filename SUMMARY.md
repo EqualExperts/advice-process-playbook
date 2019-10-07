@@ -10,6 +10,7 @@
   * [The Advice Process protocol](background/the-advice-process-protocol.md)
   * [Pirate or navy?](background/pirate-or-navy.md)
 * [How the AP works](how-the-ap-works/README.md)
+  * [Step-by-Step Guide](how-the-ap-works/step-by-step-guide.md)
   * [Concept creation](how-the-ap-works/concept-creation.md)
   * [Confirming the decision maker](how-the-ap-works/confirming-the-decision-maker.md)
   * [Advice & Analysis](how-the-ap-works/advice-and-analysis.md)
