@@ -1,4 +1,4 @@
-# Contribute
+# Contributions
 
 This playbook was created by [Thomas Granier](https://www.linkedin.com/in/thomasgranier/), [Dave Hewett](https://www.linkedin.com/in/dave-hewett-b97609/), [Lyndsay Prewer](https://www.linkedin.com/in/lyndsp/) and [Chris Cobb](https://www.linkedin.com/in/chris-cobb-88981a1/). and the amazing folks at [Equal Experts](https://www.equalexperts.com/) whom have generously shared their experience for the benefit of others.
 
