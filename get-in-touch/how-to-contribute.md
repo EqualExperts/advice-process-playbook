@@ -1,3 +1,7 @@
+---
+description: 'We are a tech company, so why wouldn''t it be via Github!'
+---
+
 # How to contribute
 
 ‌As with any open source effort, there are numerous different ways you can contribute. From fixing a typo to suggesting entirely new content, all suggestions are welcome. If you'd like to contribute, please follow these guidelines:‌

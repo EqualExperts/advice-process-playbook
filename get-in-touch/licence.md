@@ -1,3 +1,7 @@
+---
+description: We love to share
+---
+
 # Licence
 
 ![Attribution-ShareAlike 4.0 International \(CC BY-SA 4.0\)](../.gitbook/assets/screenshot-2019-10-07-16.12.04.png)
