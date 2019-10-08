@@ -122,5 +122,15 @@ description: Some of the original reading relating to the Advice Process
         </p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><a href="https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view">Resources for decentralised organising</a>
+        </p>
+        <p>The best set of recourses I&apos;ve found which covers decentralised orgainisations
+          (amonst other things). If you are interested in further reading this is
+          a great starting point.</p>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
