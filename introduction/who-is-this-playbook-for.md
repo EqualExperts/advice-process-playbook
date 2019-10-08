@@ -1,3 +1,7 @@
+---
+description: 'Spoiler alert, its for people in EE and those interested in the Advice Process'
+---
+
 # Who is this playbook for?
 
 It’s for anyone that’s interested in the Advice Process – both inside Equal Experts and outside.

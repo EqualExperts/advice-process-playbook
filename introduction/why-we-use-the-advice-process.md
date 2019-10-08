@@ -1,3 +1,7 @@
+---
+description: Aligning what we believe with our working practices
+---
+
 # Why we use the Advice Process
 
 We first began experimenting with the AP in April 2016. Around that time, EE’s mission statement read something like this:
