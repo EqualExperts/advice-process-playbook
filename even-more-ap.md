@@ -79,5 +79,48 @@ description: Some of the original reading relating to the Advice Process
         <img src=".gitbook/assets/24.jpeg" alt/>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><a href="https://www.equalexperts.com/blog/ee-life/the-decision-is-mine/">The Decision is ... mine!</a>
+        </p>
+        <p>A blog post created by one of Equal Experts own where Paul Keelan describes
+          his own experience of using the Advice Process for the first time.</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/decision_making.jpg" alt/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><a href="https://www.equalexperts.com/blog/ee-life/paving-the-way-to-a-more-open-sharing-network/">Paving the way to a more open, sharing network</a>
+        </p>
+        <p>At Equal Experts, we pride ourselves on being an open, flexible, grown-up
+          and welcoming workplace. It&#x2019;s easy to say such a thing of course
+          &#x2013; but how does this manifest itself in reality? Here are a just
+          a few of the things we do to make Equal Experts that bit different</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/openness.jpg" alt/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><a href="https://www.equalexperts.com/blog/ee-life/how-we-empower-our-employees-to-make-better-decisions/">How we empower our employees to make better decisions</a>
+        </p>
+        <p>Equal Experts first blog post for when we introduced the Advice process</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/making_decisions_better2.jpg" alt/>
+        </p>
+      </td>
+    </tr>
   </tbody>
 </table>
