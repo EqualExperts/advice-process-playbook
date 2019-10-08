@@ -27,7 +27,7 @@ The outcome will be one of the following:
 * The person that raised the AP originally is confirmed to be the decision maker. A variant on this is that the exec/BUL confirms the original person, but asks for the scope/cost of the AP to be reduced.
 * Alternatively, another person takes over the AP to decide on the outcome. This new person could be the Exec or the BUL, but we recommend avoiding this if possible, so other people can be exposed to larger decisions.
 
-**Please note:** We want APs to be as short as possible - both to encourage small steps, accelerated learning and a short payback period 1-3 months is preferable, sometimes we will tolerate up to 6 months.
+**Please note:** We want APs to be as short as possible - both to encourage small steps, accelerated learning and a short payback period 1-3 months.  Three months currently the maximum duration of an AP.
 
 ### Value threshold by Business Unit
 

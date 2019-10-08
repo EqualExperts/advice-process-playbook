@@ -37,7 +37,7 @@ Progress has been made on tracking AP with [Advice Process Proposals tracker](ht
 
 #### Categorise the AP
 
-In the Tracker, the CFO will assign a category to the AP, using his judgement but based on the criteria below:
+In the Tracker, the COO will assign a category to the AP, using his judgement but based on the criteria below:
 
 **Decisions**
 
