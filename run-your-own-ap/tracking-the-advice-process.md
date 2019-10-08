@@ -54,5 +54,5 @@ This is for anything that is seeking an improvement to our business that is spec
 
 #### Limiting the total investment pot
 
-Based on the categorisation above, we will constrain the global investment pot to £500K maximum spend between 1st October and 31st March - the end of this fiscal year.
+Based on the categorisation above, we will constrain the global investment pot maximum spend between 1st October and 31st March \(amount TBC\) - the end of this fiscal year.
 
