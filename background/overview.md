@@ -6,7 +6,7 @@ description: When to use the Advice Process
 
 ## The Process in a Picture
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ## When to use the Advice Process
 

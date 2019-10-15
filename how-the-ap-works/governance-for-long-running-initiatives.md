@@ -14,7 +14,7 @@ Our governance is more lean start-up than corporate take-over. Its design is bas
 
 Here’s our governance set-up:
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ### Governance Group Mandate
 
