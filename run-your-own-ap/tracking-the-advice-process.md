@@ -23,13 +23,9 @@ Useful links:
 
 ### Changing the Status of an AP
 
+To Complete your AP, you need to make sure you [complete all the steps.](../how-the-ap-works/learn-and-complete-the-ap.md)
+
 To Abandon an AP, just post into the channel, your intention to abandon and why. This will be reflected in the tacker.
-
-To Complete an AP you must have
-
-* spent the money \(or enough to have done enough
-* Captured lessons learnt and updated the AP result
-* Presented at a Show and Tell
 
 ### Tracking each AP
 

@@ -8,47 +8,22 @@ description: How we decide who should take the concept forward
 
 We don’t want Equal Experts to be a business where people check in their minds at the door; we want people to be engaged. After all, it’s the quality of decisions that determine the success or failure of any organisation – people are at their most creative and motivated to make good decisions when they have real control and responsibility.
 
-There are still appointed leaders within EE – like the Exec Team and the Business Unit Leads \(BULs\) – but they don’t make all the decisions. Rather, their focus is to enable others to make decisions safely, based on a common set of data accessible to all. They do make one very important set of decisions, however: to confirm the decision maker for APs covering high value items in their area, on different decisions and projects.
-
-The Exec / BUL of a team confirms the decision maker; it’s then that person’s decision, and they are accountable for the results and responsible for the consequences. This is because if the person who makes the decision doesn’t have any responsibility, the decision doesn’t mean anything.
-
-### Who appoints the Decision Maker: a quick guide
-
-* _For low-value decisions under a certain threshold \(outlined in the table below\), any employee who is part of a Business Unit \(BU\) that’s adopted the AP can appoint themselves as decision maker._
-* _Above the value threshold and below £20,000, if an AP impacts a single BU, then the relevant Business Unit Lead \(BUL\) appoints the decision maker._
-* _For any decision that spans across Business Units, or not covered by the two points above, the Exec Team appoints the decision maker._
+**For decision under a certain cost threshold \(see** [**Constraints**](../run-your-own-ap/constraints.md#value-threshold-by-business-unit)\*\*\*\*[**\)**](../run-your-own-ap/constraints.md)**, any employee who is part of a Business Unit \(BU\) that’s adopted the AP can appoint themselves as decision maker, as long as all other** [**Constraints**](../run-your-own-ap/constraints.md#constraints) **are met.**
 
 ### High value/large impact decisions
 
-As outlined above, the decision maker for higher value or larger impact decisions, needs to be confirmed either by the BUL or by the Exec Team. Execs will consider APs that affect more than one BU, while BULs will consider APs that impacting only their BU.
+There are still appointed leaders within EE – like the Exec Team and the Business Unit Leads \(BULs\) – but they don’t make all the decisions. Rather, their focus is to enable others to make decisions safely, based on a common set of data accessible to all. 
+
+They do make one very important set of decisions, however: to confirm the decision maker for APs covering higher value items in their area, on different decisions and projects. 
+
+The Exec / BUL of a team _only confirms the decision maker_; it’s then that person’s decision, and they are accountable for the results and responsible for the consequences. This is because if the person who makes the decision doesn’t have any responsibility, the decision doesn’t mean anything.
+
+Execs will consider APs that affect more than one BU, while BULs will consider APs that impacting only their BU.
 
 The outcome will be one of the following:
 
 * The person that raised the AP originally is confirmed to be the decision maker. A variant on this is that the exec/BUL confirms the original person, but asks for the scope/cost of the AP to be reduced.
 * Alternatively, another person takes over the AP to decide on the outcome. This new person could be the Exec or the BUL, but we recommend avoiding this if possible, so other people can be exposed to larger decisions.
-
-**Please note:** We want APs to be as short as possible - both to encourage small steps, accelerated learning and a short payback period 1-3 months.  Three months currently the maximum duration of an AP.
-
-### Value threshold by Business Unit
-
-Under the listed threshold, any employee can appoint themselves the decision maker \(unless the decision is deemed to have a bigger impact, or affect more than a single BU\).
-
-| **BU** | **BUL** | **Value GBP** | **Local Currency Value** |
-| :--- | :--- | :--- | :--- |
-| UK \(London / SW / North\) |  | 6,000 GBP | 6,000 GBP |
-| UKSW | Andy Kemp | 6,000 GBP | 6,000 GBP |
-| UK North | Andy Goundry | 6,000 GBP | 6,000 GBP |
-| Germany | Nuno Marques | circa 5.5K GBP | 6,000 EUROs |
-| Bengaluru | Vishwas Bhagath | circa 1.7k GBP | 1.5 lakhs |
-| Pune | Ashish Jagtap | circa 1.7k GBP | 1.5 lakhs |
-| ANZ | Bethan Timmins | circa 5.5K GBP | 10,000 AUD/NZD |
-| US | Ryan Sikorsky | circa 5K GBP | 6,000 USD |
-| Portugal | Ryan Bayly | circa 5.5K GBP | 3750 EUROs |
-| South Africa | Brian Blignaut | circa 3K GBP | 50,000 ZAR |
-
-### WIP Limits
-
-One person can only be the decision maker for 2 on-going AP at any given time. If you want to open another AP and already have 2 APs in flight, you will have to abandon or complete existing ones, before opening another.
 
 ### Transparency of Appointments
 

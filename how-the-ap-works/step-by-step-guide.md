@@ -24,5 +24,5 @@ This stage also covers breaking up the decision into smaller parts, thinking abo
 
 **Measure**: Implement your initiative and use data to judge its success \(or not\). Take care not to conflate a good decision with a bad outcome!
 
-**Learn**: Measuring and learning will lead to further MVPs until complete. Share your learnings with the rest of the company \(eg. via our monthly AP Learnings meeting\).
+**Learn and Complete your AP**: Measuring and learning will lead to further MVPs until complete. Share your learnings with the rest of the company \(eg. via our monthly AP Learnings meeting\).
 
