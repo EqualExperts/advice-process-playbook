@@ -6,9 +6,7 @@ description: A guide to using the Advice Process at Equal Experts
 
 **We wrote this playbook to share our ongoing experience of a real-world implementation of the Advice Process at Equal Experts, and related non-conventional approaches to running a company.**
 
-![](.gitbook/assets/0.png)
-
-\*\*\*\*
+![](.gitbook/assets/image%20%282%29.png)
 
 This playbook is written for two audiences - people working within the Equal Experts network \(EE\), who want to learn more about the Advice Process \(AP\), and those outside our organisation who are curious to learn more about how it works \(possibly with a view to trying it within their own organisations\).
 

@@ -6,7 +6,7 @@ description: A summary of each step in the Advice Process
 
 ## The Advice Process, illustrated
 
-![](../.gitbook/assets/17.png)
+![](../.gitbook/assets/image.png)
 
 Here’s a brief overview of each stage of the AP. We’ll then explore each in more detail.
 
