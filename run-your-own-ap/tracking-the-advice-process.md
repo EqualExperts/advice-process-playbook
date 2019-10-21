@@ -48,7 +48,7 @@ This means any actual money that we have to spend, such as paying an associate o
 * the APID is used on any invoices that need paying at the time you approve them. This can just be a note when you send the invoice by email \(accounts@equalexperts.com\).
 * highlight the APID in the Project field of any [expense claim](https://docs.google.com/document/d/1EXFneU4mISmwDSdz3w1x-4WLvMPUAfRQYYm6L8YPPlU/edit#heading=h.iy5lcle9hh4f) submitted.
 
-**Tracking time**
+**Tracking Time**
 
 We track the time spent by employees and associates on APs, where
 
