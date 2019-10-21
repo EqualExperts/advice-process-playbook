@@ -34,5 +34,4 @@
   * [How to contribute](get-in-touch/how-to-contribute.md)
   * [Licence](get-in-touch/licence.md)
 * [Contributions](contribute.md)
-* [Untitled](untitled.md)
 
