@@ -6,8 +6,6 @@ Visit [www.playbook.ee](http://www.playbook.ee) to find the current version of t
 
 Follow us on Twitter @EqualExperts or find us on LinkedIn.
 
-This Advice Process Playbook was created by [Dave Hewett](https://www.linkedin.com/in/dave-hewett-b97609/), [Thomas Granier](https://www.linkedin.com/in/thomasgranier/), [Lyndsay Prewer](https://www.linkedin.com/in/lyndsp/) and [Chris Cobb](https://www.linkedin.com/in/chris-cobb-88981a1/). and the amazing folks at [Equal Experts](https://www.equalexperts.com/).
-
 We’d like to say a massive “Thank You!” to our colleagues and clients, the brilliant hive mind whose wisdom and experience has made this into what it is.
 
 **This book is dedicated to you**, and all the colleagues and friends who put up with our poorly designed, painfully scattered earlier attempts at implementing the Advice Process… It’s a journey...
