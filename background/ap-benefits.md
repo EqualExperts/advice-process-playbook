@@ -6,9 +6,7 @@ description: A quick summary of the benefits we receive when we use the Advice P
 
 ## Why do we do this anyway?
 
-_“The more decisions I made, the less engaged others become, and the less ownership they had in the results”_
-
-_-_ [_Dennis_](https://www.slideshare.net/pearpress/the-decisionmaker-dennisbakkeppt) [_Bakke_](https://www.slideshare.net/pearpress/the-decisionmaker-dennisbakkeppt)
+> _The more decisions I made, the less engaged others become, and the less ownership they had in the results -_ [_Dennis_](https://www.slideshare.net/pearpress/the-decisionmaker-dennisbakkeppt) [_Bakke_](https://www.slideshare.net/pearpress/the-decisionmaker-dennisbakkeppt)
 
 All this AP business would seem a lot of effort, if there weren’t significant benefits to putting such a process in place. Thankfully, there are. Here’s a rundown.
 
