@@ -23,6 +23,11 @@ Whilst many large companies will talk about similar principles, the proof is in 
 
 **Pro tips:**
 
-* People aren’t perfect – we are all fallible, no matter where we fall in the hierarchy or how long we’ve been within the organisation.
-* It’s hard to let go as a boss and trust and empower people. Do not underestimate how easy it is to slip back into the old ways
+{% hint style="success" %}
+People aren’t perfect – we are all fallible, no matter where we fall in the hierarchy or how long we’ve been within the organisation.
+{% endhint %}
+
+{% hint style="success" %}
+It’s hard to let go as a boss and trust and empower people. Do not underestimate how easy it is to slip back into the old ways
+{% endhint %}
 
