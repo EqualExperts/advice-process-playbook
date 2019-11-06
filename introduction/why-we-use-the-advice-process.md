@@ -6,7 +6,7 @@ description: Aligning what we believe with our working practices
 
 We first began experimenting with the AP in April 2016. Around that time, EE’s mission statement read something like this:
 
-_"Equal Experts was created to be a haven where people are comfortable enough to be themselves, in an environment where there is support and mutual respect for you and your peers. In a self-organising environment, autonomy is given but in return we are expected to take personal responsibility and hold ourselves accountable for achieving our mission. Above all, we are expected to do the right thing by your colleagues and customers."_
+> _Equal Experts was created to be a haven where people are comfortable enough to be themselves, in an environment where there is support and mutual respect for you and your peers. In a self-organising environment, autonomy is given but in return we are expected to take personal responsibility and hold ourselves accountable for achieving our mission. Above all, we are expected to do the right thing by your colleagues and customers_
 
 Of course, mission statements are only useful if they actually drive behaviours and instruct involved parties on how to operate the organisation.
 
