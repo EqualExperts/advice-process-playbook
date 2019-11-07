@@ -35,9 +35,11 @@ What are some of the patterns for making good decisions?
 
 #### Making good decisions is like playing poker
 
-_“Poker is a game of incomplete information. It is a game of decision-making under conditions of uncertainty over time. Valuable information remains hidden, and there is an element of luck in any outcome. You can make the best possible decision at every point and still lose the hand, because you don’t know what new cards will be dealt and revealed. Once the game is finished and you try to learn from the results, separating the quality of your decisions from the influence of luck is difficult.”_
+> _Poker is a game of incomplete information. It is a game of decision-making under conditions of uncertainty over time. Valuable information remains hidden, and there is an element of luck in any outcome. You can make the best possible decision at every point and still lose the hand, because you don’t know what new cards will be dealt and revealed. Once the game is finished and you try to learn from the results, separating the quality of your decisions from the influence of luck is difficult._
 
 _Paraphrased from Duke, Annie. Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts \(pp. 30-31\). Penguin Publishing Group. Kindle Edition._
+
+\_\_
 
 #### Advice from a group: making it better than the sum of its individuals
 
@@ -45,13 +47,13 @@ The advice from a group can be better than the sum of its individuals, but only 
 
 We can improve the quality of decisions by promoting exploratory thought. So don’t just select people who are going to agree with you!
 
-_“Complex and open-minded thought is most likely to be activated when decision makers learn prior to forming any opinions that they will be accountable to an audience \(a\) whose views are unknown, \(b\) who is interested in accuracy, \(c\) who is reasonably well-informed, and \(d\) who has a legitimate reason for inquiring into the reasons behind participants’ judgments / choices.”_
+> _Complex and open-minded thought is most likely to be activated when decision makers learn prior to forming any opinions that they will be accountable to an audience \(a\) whose views are unknown, \(b\) who is interested in accuracy, \(c\) who is reasonably well-informed, and \(d\) who has a legitimate reason for inquiring into the reasons behind participants’ judgments / choices._
 
 [_Lerner and Tetlock 2002_](https://pdfs.semanticscholar.org/1e30/cd74414cbe0f24e03cf10362fc4b7372e885.pdf)
 
 Introduce diversity to challenge bias thinking. As Jonathan Haidt points out in his book [_The Righteous Mind: Why Good People Are Divided by Politics and Religion_](https://en.wikipedia.org/wiki/The_Righteous_Mind):
 
-_“If you put individuals together in the right way, such that some individuals can use their reasoning powers to disconfirm the claims of others, and all individuals feel some common bond or shared fate that allows them to interact civilly, you can create a group that ends up producing good reasoning as an emergent property of the social system. This is why it’s so important to have intellectual and ideological diversity within any group or institution whose goal is to find truth.”_
+> _If you put individuals together in the right way, such that some individuals can use their reasoning powers to disconfirm the claims of others, and all individuals feel some common bond or shared fate that allows them to interact civilly, you can create a group that ends up producing good reasoning as an emergent property of the social system. This is why it’s so important to have intellectual and ideological diversity within any group or institution whose goal is to find truth._
 
 Combine these two ideas and you get a blueprint for the type of people in a group you should seek advice from.
 
