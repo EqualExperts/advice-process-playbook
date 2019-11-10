@@ -8,17 +8,15 @@ description: How we decide who should take the concept forward
 
 We don’t want Equal Experts to be a business where people check in their minds at the door; we want people to be engaged. After all, it’s the quality of decisions that determine the success or failure of any organisation – people are at their most creative and motivated to make good decisions when they have real control and responsibility.
 
-**For decision under a certain cost threshold \(see** [**Constraints**](../run-your-own-ap/constraints.md#value-threshold-by-business-unit)\*\*\*\*[**\)**](../run-your-own-ap/constraints.md)**, any employee who is part of a Business Unit \(BU\) that’s adopted the AP can appoint themselves as decision maker, as long as all other** [**Constraints**](../run-your-own-ap/constraints.md#constraints) **are met.**
+**For APs under a certain cost threshold \(see** [**Constraints**](../run-your-own-ap/constraints.md#value-threshold-by-business-unit)\*\*\*\*[**\)**](../run-your-own-ap/constraints.md)**, any employee who is part of a Business Unit \(BU\) can appoint themselves as decision maker, as long as all other constraints are met.**
 
 ### High value/large impact decisions
 
 There are still appointed leaders within EE – like the Exec Team and the Business Unit Leads \(BULs\) – but they don’t make all the decisions. Rather, their focus is to enable others to make decisions safely, based on a common set of data accessible to all. 
 
-They do make one very important set of decisions, however: to confirm the decision maker for APs covering higher value items in their area, on different decisions and projects. 
+One of these is to confirm the decision maker for APs with higher forecast values. 
 
-The Exec / BUL of a team _only confirms the decision maker_; it’s then that person’s decision, and they are accountable for the results and responsible for the consequences. This is because if the person who makes the decision doesn’t have any responsibility, the decision doesn’t mean anything.
-
-Execs will consider APs that affect more than one BU, while BULs will consider APs that impacting only their BU.
+The Exec team or BULs _only confirms the decision maker_; it's that person’s decision, and they are accountable for the spend, and responsible for the results and learnings. This is because we believe that the person who makes the decision, must have the full responsibility for it. or the decision is meaningless.
 
 The outcome will be one of the following:
 
