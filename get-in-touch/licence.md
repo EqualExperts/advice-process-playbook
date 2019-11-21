@@ -4,7 +4,7 @@ description: We love to share
 
 # Licence
 
-![Attribution-ShareAlike 4.0 International \(CC BY-SA 4.0\)](../.gitbook/assets/screenshot-2019-10-07-16.12.04.png)
+![Attribution-ShareAlike 4.0 International \(CC BY-SA 4.0\)](../.gitbook/assets/cc-by-sa-andere_wikis.png)
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License, which means you can modify it and use it, even for commercial purposes, as long as you give credit and distribute under the same license. To view a copy of this license, visit http://creativecommons. org/licenses/by-sa/4.0/
 
