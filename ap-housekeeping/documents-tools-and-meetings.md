@@ -45,5 +45,5 @@ These are the required processes for a standard AP:
 1. Fill in the AP template
 2. Post it in the \#ap-decisions Slack channel \(this may be after the decision is made\)
 3. Update progress, material change or closure of the AP in the template.
-4. Attend the Show & Tell when AP is published.
+4. Publish the blogin updating everyone on the ****results and learnings .
 
