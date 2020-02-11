@@ -38,6 +38,20 @@ All new AP creators need to publish a blogin post that summarises the outcomes a
 
 The purpose of the blogin is to aid accountability and transparency – and most importantly, to share any learning along the way.
 
+### Blogin Template
+
+The Advice Process template includes sections for results and learnings. We recommend filling these in first, then linking from the blogin post to the original AP document. The blogin post then just needs to summarise the relevant AP sections.
+
+The post should reference the AP title, id and link. It then should summarise the AP’s:
+
+* What and why
+* Results
+* Learnings and any next steps
+
+The AP Learning Group will shortly publish some example posts for APs they have completed.   
+  
+
+
 ## Standard AP checklist
 
 These are the required processes for a standard AP:
