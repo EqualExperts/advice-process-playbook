@@ -28,9 +28,15 @@ We have the following channels set up to help move everything along:
 * **\#ap-operations** – a place to discuss the day-to-day operations of the advice process.
 * **\#ap-XXX** – when people create an advice process they will often create a temporary channel to discuss it with interested parties. This is not mandatory, but if you do, this is the naming format to use.
 
-## Monthly Show & Tell
+## Blogin
 
-Every month we run a show and tell, where people who have recently published APs in the \#ap-decisions channel take a 5-minute slot to present and discuss their specific AP. The purpose of the show and tell is to aid accountability and transparency – and most importantly, to share any learning along the way.
+All new AP creators need to publish a blogin post that summarises the outcomes and learnings of their AP. This should be done either:
+
+* When you've concluded the AP and learnt something.
+* 3 months after the AP started.
+* Before you start a 3rd AP -  see ****[**constraints**](../run-your-own-ap/constraints.md) **.**
+
+The purpose of the blogin is to aid accountability and transparency – and most importantly, to share any learning along the way.
 
 ## Standard AP checklist
 
