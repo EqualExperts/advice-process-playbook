@@ -48,8 +48,12 @@ The post should reference the AP title, id and link. It then should summarise th
 * Results
 * Learnings and any next steps
 
-The AP Learning Group will shortly publish some example posts for APs they have completed.   
-  
+If the AP outcome was to proceed with the decision, then it’s important the Results section summarises:
+
+1. Actual vs estimated cost.
+2. Actual outcomes in relation to success metrics.
+
+This internal [blogin post](https://equalexperts.blogin.co/single-post.php?id=88470) provides an example of what to cover.   
 
 
 ## Standard AP checklist
