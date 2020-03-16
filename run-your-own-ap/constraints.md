@@ -16,7 +16,7 @@ We started the AP process with cost thresholds that determine whether the decisi
 
 ### WIP Limit: 2 on-going APs
 
-One person can only be the decision maker for 2 on-going AP at any given time. If you want to open another AP and already have 2 APs in flight, you will have to abandon or complete existing ones, before opening another.
+One person can only be the decision maker for 2 on-going AP at any given time. If you want to open another AP and already have 2 APs in flight, you will have to abandon or complete existing ones, before opening another.  To complete an existing AP you must publish a blogin post that documents the result and learnings of the AP.  Until this is done AP will be considered ongoing and contribute to your WIP limit.
 
 ### Duration: 3 months max
 

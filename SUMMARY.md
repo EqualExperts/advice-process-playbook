@@ -20,7 +20,7 @@
   * [Advice & Analysis](how-the-ap-works/advice-and-analysis.md)
   * [Making the Decision](how-the-ap-works/making-the-decision.md)
   * [Measuring the Decision](how-the-ap-works/measuring-the-decision.md)
-  * [Learn and Complete the AP](how-the-ap-works/learn-and-complete-the-ap.md)
+  * [Learn and complete the AP](how-the-ap-works/learn-and-complete-the-ap.md)
   * [Governance for long-running initiatives](how-the-ap-works/governance-for-long-running-initiatives.md)
 * [Run your own AP](run-your-own-ap/README.md)
   * [Where to Start](run-your-own-ap/where-to-start.md)
