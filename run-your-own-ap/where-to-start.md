@@ -73,7 +73,11 @@ At this stage, we won’t track opportunity cost nor employee time. There’s mo
 
 Having good metrics is important, but they can be hard to define. This [article on good metrics](https://towardsdatascience.com/what-is-a-good-metric-bec313bbc8c7) provides useful guidance and the AP Learning Group will be happy to work through the question with you \(make contact with @ap-learning-group in [\#ap-decisions](https://equalexperts.slack.com/messages/CCFLF2KM5)\). In the future, we’ll also be providing exemplar APs to learn from.
 
-**Result:** Documenting this is critical, as it’s the only way to provide transparency to the process and the only way we can collectively learn as an organisation. The decision maker is responsible for updating the result of the proposal until closed.
+**Result:** Documenting this is critical, as it’s the only way to provide transparency to the process and the only way we can collectively learn as an organisation. The decision maker is responsible for updating the result of the proposal until closed. If the AP outcome was to proceed with the decision, then it’s important to summarise:
+
+1. Actual vs estimated cost.
+2. Actual outcomes in relation to success metrics.
+3. Any next steps that follow the AP.
 
 **Learnings:** Are there things we’d do again, or avoid in the future? Are there learnings to be shared across the organisation?
 
