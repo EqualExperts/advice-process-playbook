@@ -67,11 +67,13 @@ At this stage, we won’t track opportunity cost nor employee time. There’s mo
 
 **Define the success metrics:** A significant part of the individual and organisational learning we get from a decision is through quantifying its resultant impact.
 
-1. What metrics will quantify the \(positive\) impact of this decision?
-2. What are the thresholds for success and failure?
-3. When and how will you take measurements?
+Having good metrics is important, but they are hard to define.  This[ article on good metrics](https://towardsdatascience.com/what-is-a-good-metric-bec313bbc8c7) provides useful guidance an, we are currently experimenting with a revised format for capturing success metrics, using a hypothesis-like structure.  Please use the following format to define your success metrics, a worked example is [here](https://docs.google.com/document/d/1-3zhqKqLtf1M2xlIfeW53bLwQX7fHzFPMY3kusWo6MM/edit?ts=5eeb4131):
 
-Having good metrics is important, but they can be hard to define. This [article on good metrics](https://towardsdatascience.com/what-is-a-good-metric-bec313bbc8c7) provides useful guidance and the AP Learning Group will be happy to work through the question with you \(make contact with @ap-learning-group in [\#ap-decisions](https://equalexperts.slack.com/messages/CCFLF2KM5)\). In the future, we’ll also be providing exemplar APs to learn from.
+* **State hypothesis:** Start with a clear hypothesis: IF we do x THEN we will achieve y and will know this BECAUSE of z.
+* **Define the time frame:** Define a timeframe to contain the experiment \(which reduces risk and investment\) and allows for a comparison. E.g. 4 weeks. 
+* **Describe the result:** Describe the intended outcome including an explanation of any terms used. 
+* **Define the measurement:** Describe a measure of the desired direct result\* \(and how you’ll obtain the measurement\) in one of two ways depending on the nature of the AP:  a\) A _comparative numerical measure_ of the intended direct result \(a quantity/ratio of a quantitative something, stated in terms of it’s current and desired state\)  Or  A _quantitative measure of a qualitative test_ \(measured through surveys or interviews\) including an initial baseline where an AP relates to a change. 
+* **Link to a business objective: &lt;Describe how the direct result will contribute to EE’s Global or a BU’s objectives \(see your BUL or Exec to find out more\).  \***Direct result versus a non-direct result: in working through example APs we noticed that some success metrics related to future or subsequent outcomes that may depend on the AP decision but are not a direct result. We found this confused ‘what’ was being measured and made it more difficult to know if the AP was successful. For example, we might measure sales leads rather than actual sales. See the example below.
 
 **Result:** Documenting this is critical, as it’s the only way to provide transparency to the process and the only way we can collectively learn as an organisation. The decision maker is responsible for updating the result of the proposal until closed. If the AP outcome was to proceed with the decision, then it’s important to summarise:
 
