@@ -67,7 +67,7 @@ At this stage, we won’t track opportunity cost nor employee time. There’s mo
 
 **Define the success metrics:** A significant part of the individual and organisational learning we get from a decision is through quantifying its resultant impact.
 
-Having good metrics is important, but they are hard to define.  This[ article on good metrics](https://towardsdatascience.com/what-is-a-good-metric-bec313bbc8c7) provides useful guidance an, we are currently experimenting with a revised format for capturing success metrics, using a hypothesis-like structure.  Please use the following format to define your success metrics, a worked example is [here](https://docs.google.com/document/d/1-3zhqKqLtf1M2xlIfeW53bLwQX7fHzFPMY3kusWo6MM/edit?ts=5eeb4131):
+Having good metrics is important, but they are hard to define.  This[ article on good metrics](https://towardsdatascience.com/what-is-a-good-metric-bec313bbc8c7) provides useful guidance an, we are currently experimenting with a revised format for capturing success metrics, using a hypothesis-like structure.  Please use the following format to define your success metrics, a worked example is [here](https://equalexperts.blogin.co/posts/evolving-the-advice-process-success-metrics-102088):
 
 * **State hypothesis:** Start with a clear hypothesis: IF we do x THEN we will achieve y and will know this BECAUSE of z.
 * **Define the time frame:** Define a timeframe to contain the experiment \(which reduces risk and investment\) and allows for a comparison. E.g. 4 weeks. 
