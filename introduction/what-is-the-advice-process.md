@@ -16,7 +16,7 @@ With the Advice Process, before a person can make a decision they must seek advi
 
 ## A word of Advice 
 
-To be clear, it’s _not_ about gaining consensus – rather, it creates a framework which allows people to seek advice, then own and execute on decisions for which they are accountable and responsible for the outcome..
+To be clear, it’s _not_ about gaining consensus – rather, it creates a framework which allows people to seek advice, then own and execute on decisions for which they are accountable and responsible for the outcome.
 
 Currently, the AP applies to our UK employees and employees of any other Business Unit \(BU\) that chooses to adopt it. In time, we believe it is important to develop this kind of decision making across EE. It fits with our culture and values. It provides autonomy and treats people like grown-ups. And it enables us to keep a mostly flat hierarchy.
 

@@ -68,7 +68,9 @@ To create the best of both worlds you need to become more like the SBS \(or for 
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">
@@ -91,7 +93,9 @@ To create the best of both worlds you need to become more like the SBS \(or for 
     </tr>
   </thead>
   <tbody></tbody>
-</table>The first key take-away: to truly benefit from a decentralised decision-making process, decision makers must have access to information that allows them to make a high-quality decision. This is more than the local, situational awareness that comes with ‘being on the ground’ but does include the decentralised teams knowing the wider strategic context.
+</table>
+
+The first key take-away: to truly benefit from a decentralised decision-making process, decision makers must have access to information that allows them to make a high-quality decision. This is more than the local, situational awareness that comes with ‘being on the ground’ but does include the decentralised teams knowing the wider strategic context.
 
 If they don’t want to go the way of the golden age pirates, those further up in the hierarchy must ensure high-quality information flows freely around the network, and access to experts, hierarchy and organisational information must not be restricted as it’s key to maintaining a decentralised model. This flow of information must come from all directions - it’s not only the responsibility of “The Management”. Teams also have an obligation to share information about their local context with the wider organisation.
 
@@ -129,3 +133,4 @@ At Equal Experts we hold a log of all APs published. This allows us to answer th
   </thead>
   <tbody></tbody>
 </table>
+
