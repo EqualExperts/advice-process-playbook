@@ -4,6 +4,25 @@ description: What constraints do APs need to operate within
 
 # Constraints
 
+## Updated constraints for Advice Process - applicable from 30th March 2020 and until further notice
+
+ The Advice process is still very much valid and we ask people to keep using it for all relevant decisions they are making at Equal Experts. The AP remains our approach for decision making at EE. However we need to cut costs during the crisis and we will consider investing only in aligned\* initiatives that help with demand generation \(marketing and sales\).
+
+\* Aligned means those initiatives are reinforcing/complementing current initiatives. 
+
+### What does this means for the AP process?
+
+**The following overrides the constraints stated below on this page.**
+
+ Any AP with the following characteristics will require the decision maker to be confirmed by the Execs and BU lead \(together while we agree on what is aligned and what isn’t\): 
+
+* Any AP that requires any cash to be spent \(for instance this cost threshold used to be £6000 in the UK and is now £0 in all BUs\) 
+* Any AP that impacts billable time 
+
+This means that APs that only require time from unbillable people can still go through without requiring the decision maker to be approved \(with same constraints as before\).
+
+This also means that people should not stop producing APs that require investments - we are not going to stop everything and hunker down. We just can not take as many bets as before about what we do and we don’t do.
+
 ## Our intent
 
 The Advice process is used for many kind of decisions at EE - from BAU decisions to process improvements to speculative investments. We want to keep APs as focussed as possible while providing enough information about the global and local context of EE for people to make informed decisions.
