@@ -33,7 +33,7 @@ Once the global investment 'pot' is fully allocated, no further APs can be creat
 The decision maker is [confirmed](../how-the-ap-works/confirming-the-decision-maker.md) by different people depending on the forecast value of the AP. The decision maker must be confirmed before an AP can proceed. As of 31st October, these thresholds are:
 
 1. When the AP is up to the levels set in the table below, then any employee can appoint themselves as decision maker.
-2. When the AP is above these levels but below £20,000 \(GBP\), and the impact is within a single BU, then the Business Unit Lead is the decision maker \(BULs are registered in our [Global Reference Data](http://bit.ly/global-reference)\). 
+2. When the AP is above these levels but below £20,000 \(GBP\), and the impact is within a single BU, then the Business Unit Lead must confirm the decision maker \(BULs are registered in our [Global Reference Data](http://bit.ly/global-reference)\). 
 3. When the AP spans multiple business units, or is not covered by the points above, then the Exec team must confirm the decision maker.
 
  The local thresholds for employees in each business unit are listed below:
