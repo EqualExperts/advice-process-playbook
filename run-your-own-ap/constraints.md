@@ -59,16 +59,16 @@ The decision maker is [confirmed](../how-the-ap-works/confirming-the-decision-ma
 
 | **Business Units** | Threshold \(local currency\) |
 | :--- | :--- |
-| UK London | 6,000 GBP |
-| UK SW | 6,000 GBP |
-| UK North | 6,000 GBP |
-| Germany | 6,000 EUR |
-| Portugal | 4000 EUR |
-| Bengaluru | 1.5 lakhs |
-| Pune | 1.5 lakhs |
-| ANZ | 10,000 AUD |
-| US | 6,000 USD |
-| South Africa | 50,000 ZAR |
+| UK London | 0 GBP |
+| UK SW | 0 GBP |
+| UK North | 0 GBP |
+| Germany | 0 EUR |
+| Portugal | 0 EUR |
+| Bengaluru | 0 lakhs |
+| Pune | 0 lakhs |
+| ANZ | 0 AUD |
+| US | 0 USD |
+| South Africa | 0 ZAR |
 
 ### 
 
