@@ -58,10 +58,6 @@ We track the time spent by employees and associates on APs, where
 
 Please agree with the person\(s\) involved and then request a timesheet on \#ask-timesheets as above.  We never track small amounts of time spent by an employee, like a day a week, or ad-hoc time. 
 
-Useful links:
-
-* [Advice Process \(AP\) - Investment Tracking Overview](https://docs.google.com/document/d/16wbKY9T4hRD2MqpmwTTv20N9q7hDWBygaGw9cqLU1hE/edit?usp=sharing)
-
 ### Changing the Status of an AP
 
 To Complete your AP, you need to make sure you [complete all the steps.](../how-the-ap-works/learn-and-complete-the-ap.md)
