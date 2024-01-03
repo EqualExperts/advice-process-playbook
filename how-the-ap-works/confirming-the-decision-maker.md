@@ -8,13 +8,13 @@ description: How we decide who should take the concept forward
 
 We don’t want Equal Experts to be a business where people check in their minds at the door; we want people to be engaged. After all, it’s the quality of decisions that determine the success or failure of any organisation – people are at their most creative and motivated to make good decisions when they have real control and responsibility.
 
-**For APs under a certain cost threshold \(see** [**Constraints**](../run-your-own-ap/constraints.md#value-threshold-by-business-unit)\*\*\*\*[**\)**](../run-your-own-ap/constraints.md)**, any employee who is part of a Business Unit \(BU\) can appoint themselves as decision maker, as long as all other constraints are met.**
+**For APs under a certain cost threshold (see** [**Constraints**](../run-your-own-ap/constraints.md#value-threshold-by-business-unit)\*\*\*\*[**)**](../run-your-own-ap/constraints.md)**, any employee who is part of a Business Unit (BU) can appoint themselves as decision maker, as long as all other constraints are met.**
 
 ### High value/large impact decisions
 
-There are still appointed leaders within EE – like the Exec Team and the Business Unit Leads \(BULs\) – but they don’t make all the decisions. Rather, their focus is to enable others to make decisions safely, based on a common set of data accessible to all. 
+There are still appointed leaders within EE – like the Exec Team and the Business Unit Leads (BULs) – but they don’t make all the decisions. Rather, their focus is to enable others to make decisions safely, based on a common set of data accessible to all.
 
-One of these is to confirm the decision maker for APs with higher forecast values. 
+One of these is to confirm the decision maker for APs with higher forecast values.
 
 The Exec team or BULs _only confirms the decision maker_; it's that person’s decision, and they are accountable for the spend, and responsible for the results and learnings. This is because we believe that the person who makes the decision, must have the full responsibility for it. or the decision is meaningless.
 
@@ -25,13 +25,11 @@ The outcome will be one of the following:
 
 ### Transparency of Appointments
 
-For transparency, we have a slack channel \(\#ap-bul\), where BULs are required to update the channel with all their appointments of decision makers, for those decisions above the threshold of their Business Unit.
-
-Please update the channel each time you appoint a decision maker, along with some comment on why they are a good appointment with respect to the specific decision concerned.
+For transparency, the decision maker and who appointed the decision maker is recorded on the AP template, which is published in the slack channel (#advice-process).
 
 ### Appointing the right decision maker
 
-Choosing who the decision maker should be is not always straightforward – just because someone has a good idea, it doesn’t mean they are the right person to take it forward. When appointing \(or self-appointing\) a decision maker, the key considerations should be:
+Choosing who the decision maker should be is not always straightforward – just because someone has a good idea, it doesn’t mean they are the right person to take it forward. When appointing (or self-appointing) a decision maker, the key considerations should be:
 
 * **Empathy.** Can this person see the problem from other people’s perspective? Are they a good listener? Do they enter conversations with an open mind?
 * **Values**. Does this person understand the values of EE? Do they connect with our ‘Why’ at a deep level? Does their behaviour exemplify EE values in a consistent manner – day in, day out?
@@ -51,4 +49,3 @@ In order to spread the responsibilities around, people who already make many dec
 We want to move away from a model where a few people are making most decisions. This is a step- by-step process that requires our active participation.
 
 As long as other people are willing to own and implement a particular decision, they can and should be entrusted with it
-
