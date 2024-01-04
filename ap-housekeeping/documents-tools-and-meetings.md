@@ -24,7 +24,6 @@ We have the following channels set up to help move everything along:
 
 * **\#ap\_learning\_group** – the global governance group of the Advice Process. Each country has its own learning group to aid with the roll-out and ongoing improvement of the process. You’ll find more info on this later in this section.
 * **\#ap-decisions** – a global channel, where all Advice Processes and associated updates are published \(including meeting minutes from governance groups\).
-* **\#ap-bul** – a place for Business Unit Leads to discuss and share appointments of AP decision makers and other related items.
 * **\#ap-operations** – a place to discuss the day-to-day operations of the advice process.
 * **\#ap-XXX** – when people create an advice process they will often create a temporary channel to discuss it with interested parties. This is not mandatory, but if you do, this is the naming format to use.
 
